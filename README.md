@@ -1,4 +1,4 @@
-# Hola, soy Néstor Castelblanco 👋
+# Hola, soy Néstor Castelblanco
 
 Estudiante de Ingeniería de Sistemas (U. del Quindío) enfocado en **ciencia de datos**, **desarrollo de software** y **automatización**. Me interesan los **pipelines de análisis**, NLP, Desarrollo web, Backend, Frontend y la construcción de herramientas reproducibles para investigación y negocio.
 
